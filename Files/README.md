@@ -5,4 +5,5 @@
 * power_exp.csv - оцененная мощность критерия Васичека для lambda = 2
 * power_exp_shapiro.csv - оцененная мощность критерия Шапиро-Уилка для lambda = 2
 * power_exp_lambda.csv - оцененная мощность критериев Васичека и Шапиро-Уилка для n = 10..50 и 50 значений lambda
-  
+
+[1] "A Test for Normality Based on Sample Entropy" By OLDRICH VASICEK
